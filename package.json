@@ -1,0 +1,18 @@
+{
+  "name": "particles-project",
+  "version": "1.0.0",
+  "description": "A java Script Canvas project where i test my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Java",
+    "Script",
+    "ES6",
+    "html",
+    "canvas."
+  ],
+  "author": "Gama4ink <gama4ink@gmail.com>",
+  "license": "MIT"
+}
